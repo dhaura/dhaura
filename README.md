@@ -1,6 +1,6 @@
 ## Hi there, I'm Dhaura 👋
 
-🌱 I’m currently a second year CSE (Computer Science and Engineering) undergraduate at University of Moratuwa <br>
+🌱 I’m currently a second year CSE (Computer Science and Engineering) undergraduate at University of Moratuwa 👨🏽‍🎓 <br>
 
 <br>
 
