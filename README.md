@@ -1,6 +1,6 @@
 ## Hi there, I'm Dhaura 👋
 
-👨🏻‍💻 I'm currently a Software Engineer at WSO2 <br> 
+👨🏻‍💻 Software Engineer at WSO2 <br> 
 🌱 CSE (Computer Science and Engineering) undergraduate at University of Moratuwa 👨🏽‍🎓
 
 <br>
