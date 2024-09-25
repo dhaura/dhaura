@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=dhaura&theme=onedark&column=-1" />
 </p>
 
 <br>
