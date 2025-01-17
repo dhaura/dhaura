@@ -1,8 +1,9 @@
 <h2 align="center">Hi there, I'm Dhaura 👋</h2>
 
 <p align="center">
-  👨🏻‍💻 Software Engineer at WSO2 <br> 
-  🌱 CSE (Computer Science and Engineering) graduate at University of Moratuwa 👨🏽‍🎓
+  🖥️ PhD Student - Graduate Research Assistant at Texas A&M University <br>
+  👨🏻‍💻 Former Software Engineer (IAM) at WSO2 <br> 
+  🌱 CSE (Computer Science and Engineering) graduate at University of Moratuwa 
 
 <br><br>
 
